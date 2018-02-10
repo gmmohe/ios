@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://www.gmmohe.com/download/ios/4050.ipa</string>
+     <string>http://www.gmmohe.com/games/4050/4050.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
